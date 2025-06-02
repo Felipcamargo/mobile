@@ -41,9 +41,9 @@ export default function Profissional() {
           <Text style = {styles.textoDados}> musico profissional</Text>
         </View> 
         <View>
-            <Text style = {styles.textoDados}>  1 - tocar violão</Text>
-            <Text style = {styles.textoDados}>  2 - tocar bateria</Text>
-            <Text style = {styles.textoDados}>  3 - otimo oxes</Text>
+            <Text style = {styles.textoDados}>  1 - bom em tudo</Text>
+            <Text style = {styles.textoDados}>  2 - responsabilidade</Text>
+            <Text style = {styles.textoDados}>  3 - otimo motorista</Text>
             <Text style = {styles.textoDados}>  4 - comunicação</Text>
             <Text style = {styles.textoDados}>  5 - Trabalho em equipe</Text>
 
